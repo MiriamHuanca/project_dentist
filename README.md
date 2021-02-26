@@ -1,4 +1,4 @@
-# project_dentist
+# Project Dentist with Vuesax
 
 ## Project setup
 ```
